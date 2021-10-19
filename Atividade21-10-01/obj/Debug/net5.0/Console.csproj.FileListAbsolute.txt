@@ -1,0 +1,16 @@
+D:\IFSP\ED2I4\Atividade21-10-01\bin\Debug\net5.0\Console.exe
+D:\IFSP\ED2I4\Atividade21-10-01\bin\Debug\net5.0\Console.deps.json
+D:\IFSP\ED2I4\Atividade21-10-01\bin\Debug\net5.0\Console.runtimeconfig.json
+D:\IFSP\ED2I4\Atividade21-10-01\bin\Debug\net5.0\Console.runtimeconfig.dev.json
+D:\IFSP\ED2I4\Atividade21-10-01\bin\Debug\net5.0\Console.dll
+D:\IFSP\ED2I4\Atividade21-10-01\bin\Debug\net5.0\ref\Console.dll
+D:\IFSP\ED2I4\Atividade21-10-01\bin\Debug\net5.0\Console.pdb
+D:\IFSP\ED2I4\Atividade21-10-01\obj\Debug\net5.0\Console.csproj.AssemblyReference.cache
+D:\IFSP\ED2I4\Atividade21-10-01\obj\Debug\net5.0\Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\IFSP\ED2I4\Atividade21-10-01\obj\Debug\net5.0\Console.AssemblyInfoInputs.cache
+D:\IFSP\ED2I4\Atividade21-10-01\obj\Debug\net5.0\Console.AssemblyInfo.cs
+D:\IFSP\ED2I4\Atividade21-10-01\obj\Debug\net5.0\Console.csproj.CoreCompileInputs.cache
+D:\IFSP\ED2I4\Atividade21-10-01\obj\Debug\net5.0\Console.dll
+D:\IFSP\ED2I4\Atividade21-10-01\obj\Debug\net5.0\ref\Console.dll
+D:\IFSP\ED2I4\Atividade21-10-01\obj\Debug\net5.0\Console.pdb
+D:\IFSP\ED2I4\Atividade21-10-01\obj\Debug\net5.0\Console.genruntimeconfig.cache
